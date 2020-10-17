@@ -1,6 +1,7 @@
 Code for paper "[Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950)", NeurIPS 2020 (best paper in International Workshop on Federated Learning for User Privacy and Data Confidentiality
 in Conjunction with ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/))).
 
+bibtex:
 ```
 @article{yuan2020federated, 
  title={Federated Accelerated Stochastic Gradient Descent}, 
