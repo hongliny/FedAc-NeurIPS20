@@ -3,12 +3,17 @@ in Conjunction with ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icm
 
 bibtex:
 ```
-@article{yuan2020federated, 
- title={Federated Accelerated Stochastic Gradient Descent}, 
- author={Yuan, Honglin and Ma, Tengyu}, 
- journal={arXiv preprint arXiv:2006.08950}, 
- year={2020} 
- }
+@inproceedings{NEURIPS2020_39d0a890,
+ author = {Yuan, Honglin and Ma, Tengyu},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Larochelle and M. Ranzato and R. Hadsell and M. F. Balcan and H. Lin},
+ pages = {5332--5344},
+ publisher = {Curran Associates, Inc.},
+ title = {Federated Accelerated Stochastic Gradient Descent},
+ url = {https://proceedings.neurips.cc/paper/2020/file/39d0a8908fbe6c18039ea8227f827023-Paper.pdf},
+ volume = {33},
+ year = {2020}
+}
 ```
 
 ---
