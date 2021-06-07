@@ -1,5 +1,8 @@
-Code for paper "[Federated Accelerated Stochastic Gradient Descent](https://papers.nips.cc/paper/2020/hash/39d0a8908fbe6c18039ea8227f827023-Abstract.html)", NeurIPS 2020 (best paper in International Workshop on Federated Learning for User Privacy and Data Confidentiality
-in Conjunction with ICML 2020 ([FL-ICML'20](http://federated-learning.org/fl-icml-2020/))).
+This code repository is for "[Federated Accelerated Stochastic Gradient Descent](https://arxiv.org/abs/2006.08950)" authored by [Honglin Yuan](https://hongliny.github.io) (Stanford) and [Tengyu Ma](https://ai.stanford.edu/~tengyuma/) (Stanford), published in NeurIPS 2020 (**best paper** in [FL-ICML'20](http://federated-learning.org/fl-icml-2020/) workshop). 
+
+  [proceeding](https://papers.nips.cc/paper/2020/hash/39d0a8908fbe6c18039ea8227f827023-Abstract.html)
+  | [video (3 min)](https://youtu.be/K28zpAgg3HM)
+  | [poster (pdf)](https://hongliny.github.io/files/FedAc_NeurIPS20/FedAc_NeurIPS20_poster.pdf) 
 
 bibtex:
 ```
